@@ -13,3 +13,8 @@
 
 ## 镜像库
 > - https://hub.docker.com/explore/
+
+## slack使用docker
+```javascript
+docker -d -s overlay -D
+```
