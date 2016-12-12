@@ -46,3 +46,7 @@ docker commit -m="add gcc in centos 6.7" -a="ya jin" 1f3b93950104 jy0hub/centos
 删除镜像  docker rmi  e10b117bd7b6
 向hub push自己的镜像 docker push jy0hub/centos
 ```
+## slack使用docker
+```javascript
+docker -d -s overlay -D
+```
