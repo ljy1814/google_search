@@ -37,3 +37,6 @@
 - 2016 
 - 720P 普清 内嵌字幕版：magnet:?xt=urn:btih:3275ec9463bf3fb7ecd20d4db7a8380f04343667
 - 720P：magnet:?xt=urn:btih:5677fdaf3b723a22da49151589361900a1d3953f
+
+#### 学习 pan
+- [A07 baidu](https://pan.baidu.com/share/home?uk=3979487667#category/type=0)
