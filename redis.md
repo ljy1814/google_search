@@ -11,3 +11,18 @@
 ## 源码下载
 > * https://code.google.com/archive/p/redis/downloads
 > * http://download.redis.io/releases/
+## 工具
+> - 图形化管理工具 
+> - 网址
+```c
+http://docs.redisdesktop.com/en/latest/
+```
+```c
+git clone --recursive https://github.com/uglide/RedisDesktopManager.git -b 0.8.0 rdm && cd ./rdm
+在Fedora & CentOS & OpenSUSE
+cd src/
+./configure
+qmake-qt5 && make && sudo make install
+cd /usr/share/redis-desktop-manager/bin
+sudo mv qt.conf qt.backup
+```
