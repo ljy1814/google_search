@@ -13,7 +13,9 @@
 > * http://download.redis.io/releases/
 
 ## redis相关博客与开发人员
-> [黄健宏](http://huangz.me) [github](https://github.com/huangz1990)
+> * [黄健宏](http://huangz.me) [github](https://github.com/huangz1990)
+> * [redis之父](http://invece.org/)
 
 ### redis实战网站
-> [redis实战](http://redisinaction.com/)
+> * [redis实战](http://redisinaction.com/)
+> * [代码](https://github.com/josiahcarlson/redis-in-action)
