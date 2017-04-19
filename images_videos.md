@@ -40,3 +40,4 @@
 
 #### 学习 pan
 - [A07 baidu](https://pan.baidu.com/share/home?uk=3979487667#category/type=0)
+- [吃dd](magnet:?xt=urn:btih:3dae5c47020b08bc5e8c4ff767f6f75e406e5fea)
