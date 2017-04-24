@@ -12,3 +12,4 @@
 * wget --proxy-user=USERNAME --proxy-password=PASSWORD http://path.to.domain.com/some.html
 * lynx -pauth=USER:PASSWORD http://domain.com/path/html.file
 * curl --proxy-user user:password http://url.com/
+    - https://kibana.logstash.es/content/
